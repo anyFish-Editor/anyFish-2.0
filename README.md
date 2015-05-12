@@ -6,13 +6,13 @@ anyFish is a novel software tool for creating computer-animated stimuli of small
 
 [Anyfish Editor](https://drive.google.com/file/d/0B416MSSN_8ZfdDYtb0tkSUhfeTg/edit?usp=sharing)
 
-TPS transformer -- TPS-transformer manual
+[TPS transformer](https://drive.google.com/file/d/0B416MSSN_8ZfVVRSeWl6MlFLZmc/edit?usp=sharing) -- [TPS-transformer manual](http://swordtail.tamu.edu/anyfish/TPS-transformer)
 
-TPS from Concensus
+[TPS from Concensus](https://drive.google.com/file/d/0B416MSSN_8ZfXzRNdlllVkN4WDg/edit?usp=sharing)
 
-AnyfishUI -- AnyfishUI manual
+[AnyfishUI](https://drive.google.com/file/d/0B416MSSN_8ZfdmhvZ2FicXhfeDA/edit?usp=sharing) -- [AnyfishUI manual](http://swordtail.tamu.edu/anyfish/Exporting_movies_for_playback)
 
-Path Viewer
+[Path Viewer](https://drive.google.com/file/d/0B416MSSN_8ZfQTMtSjhVNzRHSWc/edit?usp=sharing)
 
 [Matlab MCR R2012a](http://www.mathworks.com/products/compiler/mcr/)
 
