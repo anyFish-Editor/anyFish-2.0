@@ -18,7 +18,7 @@ Optimo is a multi-objective optimization tool and it is part of for BIM-based Pe
  - [Link for documentation](https://github.com/BPOpt/Optimo/wiki)
  
 
-**Optimo Introduction Video**
+**anyFish Introduction Video**
 <a href="http://www.youtube.com/watch?v=oc7znmsJ_vw" target="_blank"><img src="https://dl.dropboxusercontent.com/u/25537565/Github/Optimo/SCH/YouTube.png"/></a>
 
 
