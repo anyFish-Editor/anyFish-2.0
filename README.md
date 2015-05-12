@@ -22,6 +22,7 @@ anyFish is a novel software tool for creating computer-animated stimuli of small
 <a href="https://www.youtube.com/watch?v=2rOKQ6TsYIM" target="_blank"><img src="https://dl.dropboxusercontent.com/u/25537565/Creating%20an%20anyFish%20Project.jpg"/></a>
 
 **Other Video Tutorials**
+
 [Overview of anyFish](https://www.youtube.com/watch?v=2rOKQ6TsYIM)
 
 [1. Building a TPS file from Images using tpsUtil](https://www.youtube.com/watch?v=Ma4Hp4O20BE)
