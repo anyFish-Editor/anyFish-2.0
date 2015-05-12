@@ -17,7 +17,8 @@ anyFish is a novel software tool for creating computer-animated stimuli of small
 [Matlab MCR R2012a](http://www.mathworks.com/products/compiler/mcr/)
 
 
-**anyFish Introduction Video**
+
+##anyFish Introduction Video##
 <a href="https://www.youtube.com/watch?v=2rOKQ6TsYIM" target="_blank"><img src="https://dl.dropboxusercontent.com/u/25537565/Creating%20an%20anyFish%20Project.jpg"/></a>
 
 
