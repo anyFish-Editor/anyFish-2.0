@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <projectName>trial</projectName>
+  <projectFolderPath>../..//AnyfishEditor05.06.13/AnyfishEditor/Assets\projects\trial</projectFolderPath>
+  <type>0</type>
+  <tankDimensions>
+    <x>1000</x>
+    <y>1000</y>
+    <z>700</z>
+  </tankDimensions>
+  <dialFrames>25</dialFrames>
+  <snapshotPer>1</snapshotPer>
+  <backgroundR>135</backgroundR>
+  <backgroundG>163</backgroundG>
+  <backgroundB>115</backgroundB>
+</ProjectData>

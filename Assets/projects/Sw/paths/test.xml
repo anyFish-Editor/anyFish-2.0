@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PathData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pathName>test</pathName>
+  <tx>61.5809746</tx>
+  <ty>69.1082</ty>
+  <tz>181.1554</tz>
+  <rot>
+    <x>0.00306338654</x>
+    <y>-0.9968403</y>

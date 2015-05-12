@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <projectName>Sam2</projectName>
+  <projectFolderPath>../..//AnyfishEditor05.06.13 - Copy\AnyfishEditor\Assets\projects\Sam2</projectFolderPath>
+  <type>1</type>
+  <tankDimensions>
+    <x>1000</x>
+    <y>1000</y>
+    <z>700</z>
+  </tankDimensions>
+  <dialFrames>15</dialFrames>
+  <snapshotPer>1</snapshotPer>
+  <backgroundR>255</backgroundR>
+  <backgroundG>245</backgroundG>
+  <backgroundB>175</backgroundB>
+</ProjectData>
