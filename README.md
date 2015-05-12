@@ -23,13 +23,22 @@ anyFish is a novel software tool for creating computer-animated stimuli of small
 
 **Other Video Tutorials**
 [Overview of anyFish](https://www.youtube.com/watch?v=2rOKQ6TsYIM)
+
 [1. Building a TPS file from Images using tpsUtil](https://www.youtube.com/watch?v=Ma4Hp4O20BE)
+
 [2. Digitizing Morphological Landmarks using tpsDig](https://www.youtube.com/watch?v=r_1ZTVjRcf8)
+
 [3. Generating a Shape Consensus File using tpsRelw](https://www.youtube.com/watch?v=UKhtC20irSk)
+
 [4. Generating Fin Texture Files using Adobe Photoshop](https://www.youtube.com/watch?v=3R09-xSkiYo)
+
 [5. TPS-Transformer](https://www.youtube.com/watch?v=zBxtqkFJNGY)
+
 [6. Creating an anyFish Project](https://www.youtube.com/watch?v=FUvlpab-Zuc)
+
 [7. Introduction to 'Key framing' using the anyFish Editor](https://www.youtube.com/watch?v=lFSNlFkoCy0)
+
+
 ## anyFish License ##
 
 This program is free software: you can redistribute it and/or modify
